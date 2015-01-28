@@ -1,4 +1,6 @@
 # lab3_new
-Brian Salmon
+Name: Brian Salmon
+
+Partner: Caleb Hsu
 
 Lab 3
